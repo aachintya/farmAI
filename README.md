@@ -1,6 +1,3 @@
-<a href="https://hack36.in">
-  <img src="https://postimage.me/images/2025/04/19/built-at-hack36.png" height="28px" alt="Built at Hack36">
-</a>
 
 # Introduction
 
